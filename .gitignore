@@ -7,6 +7,15 @@ dist/
 .pytest_cache/
 .ruff_cache/
 
+# Downloaded datasets (keep the directory structure, not the data)
+data/raw/*
+!data/raw/.gitkeep
+data/splits/*
+!data/splits/.gitkeep
+
+# Fine-tuned checkpoints and generated evaluation outputs
+outputs/
+
 # Environments and local configuration
 .venv/
 venv/
