@@ -215,3 +215,8 @@ before downloading or sharing it.
 ## Contributing
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for the development workflow.
+
+## Attribution
+
+Dataset sourced from Kaggle: https://www.kaggle.com/datasets/muhammadardiputra/aesop-fables-dataset
+
